@@ -15,6 +15,12 @@ nav {
     color: #F9AA33;
 }
 
+nav a {
+    text-decoration: none;
+    color: #F9AA33;
+    font-size: 1.7em;
+}
+
 #articles {
     width: 900px;
     margin: 30px auto;
